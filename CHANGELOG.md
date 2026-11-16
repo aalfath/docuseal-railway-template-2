@@ -3,6 +3,10 @@
 Each entry is one version of this template. Breaking changes come first.
 Deployers get an "update available" notice in Railway when a change is merged to `main`. Read the entry before you apply it.
 
+## 3.3.6-1 (2026-11-16)
+
+- README: add the Deploy on Railway button for the published template `docuseal-2` (https://railway.com/deploy/docuseal-2). No change to the app or its configuration.
+
 ## 3.3.6 (2026-11-16)
 
 - First release: DocuSeal [3.3.6](https://github.com/docusealco/docuseal/releases/tag/3.3.6) (`docuseal/docuseal:3.3.6@sha256:df78e750ec0df42c121225875714487998048c9c80f412c1d5a0b9290887ba5c`), Railway Postgres, a volume at `/data/docuseal`, a health check on `/up`, and `FORCE_SSL=true`.

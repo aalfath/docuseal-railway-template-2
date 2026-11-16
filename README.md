@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/docuseal-2?utm_medium=integration&utm_source=button&utm_campaign=docuseal)
+
 # DocuSeal on Railway
 
 A Railway template for [DocuSeal](https://www.docuseal.com), the open-source document signing app. You build PDF forms, send them out for signing and keep the signed copies, on your own server.
